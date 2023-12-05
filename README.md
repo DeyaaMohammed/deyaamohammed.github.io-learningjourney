@@ -30,14 +30,14 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 <ul>
   <li><h5 id="tauapijava">Java API Path  | Test Automation University</h5></li>
 
-  - **Setting a Foundation for Successful Test Automation** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=b28a5ddc)
-  - **Java Programming** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=6dbb7d22)
-  - **IntelliJ for Test Automation Engineers** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=00310a94)
-  - **JUnit 5** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=bc3cc64a)
-  - **Introduction to TestNG** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=089614fd)
-  - **Exploring Service APIs through Test Automation** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=adbdc80e)
-  - **API Test Automation with Postman** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=4fedb9a0)
-  - **Automating your API tests with REST Assured** | _November 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=6d7e02cc)
+    - **Setting a Foundation for Successful Test Automation** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=b28a5ddc)
+    - **Java Programming** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=6dbb7d22)
+    - **IntelliJ for Test Automation Engineers** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=00310a94)
+    - **JUnit 5** | _September 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=bc3cc64a)
+    - **Introduction to TestNG** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=089614fd)
+    - **Exploring Service APIs through Test Automation** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=adbdc80e)
+    - **API Test Automation with Postman** | _October 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=4fedb9a0)
+    - **Automating your API tests with REST Assured** | _November 2023_ | [Verify](https://testautomationu.applitools.com/certificate/?id=6d7e02cc)
 </ul>
 
 - **Postman Course** | QAcart - _October 2023_ | [Verify](https://drive.google.com/file/d/1f_2R5UCfqn9qvh_EFjcUITRhjWUh-vk_/view?usp=drive_link)
@@ -46,16 +46,16 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 <ul>
   <li><h5 id="guidedprojects">Guided Projects  - Coursera Project Network</h5></li>
 
-  - **Unit Testing in Java** | _August 2023_ | [Verify](https://coursera.org/verify/2E53TEKQEDMP)
-  - **Test Driven Development in Java for Beginners** | _August 2023_ | [Verify](https://coursera.org/verify/G4PMLJFWMP2T)
-  - **Start Your API Testing Journey With Postman Tool** | _July 2023_ | [Verify](https://coursera.org/verify/VELAHJ69E6NJ)
-  - **API Testing a real web application via Postman** | _July 2023_ | [Verify](https://coursera.org/verify/RHGMPWWVQY49)
-  - **How to create an API request using Postman** | _July 2023_ | [Verify](https://coursera.org/verify/BMTRBT6MJ5Y7)
-  - **Create RESTful APIs for Spotify using Postman** | _July 2023_ | [Verify](https://coursera.org/verify/L55NJFS6R94Z)
-  - **Performance Testing with JMeter for absolute beginners** | _July 2023_ | [Verify](https://coursera.org/verify/P33KHXREX4C3)
-  - **Introduction to API Testing using JMeter Tool** | _July 2023_ | [Verify](https://www.coursera.org/verify/EJ5XMEP8NS8L)
-  - **API Testing Using Rest Assured Test Automation Tool** | _July 2023_ | [Verify](https://coursera.org/verify/EH8ZF3L5TKLP)
-  - **Building API Test Automation Framework Using Rest Assured** | _July 2023_ | [Verify](https://coursera.org/verify/8HT942ZWUUDJ)
+    - **Unit Testing in Java** | _August 2023_ | [Verify](https://coursera.org/verify/2E53TEKQEDMP)
+    - **Test Driven Development in Java for Beginners** | _August 2023_ | [Verify](https://coursera.org/verify/G4PMLJFWMP2T)
+    - **Start Your API Testing Journey With Postman Tool** | _July 2023_ | [Verify](https://coursera.org/verify/VELAHJ69E6NJ)
+    - **API Testing a real web application via Postman** | _July 2023_ | [Verify](https://coursera.org/verify/RHGMPWWVQY49)
+    - **How to create an API request using Postman** | _July 2023_ | [Verify](https://coursera.org/verify/BMTRBT6MJ5Y7)
+    - **Create RESTful APIs for Spotify using Postman** | _July 2023_ | [Verify](https://coursera.org/verify/L55NJFS6R94Z)
+    - **Performance Testing with JMeter for absolute beginners** | _July 2023_ | [Verify](https://coursera.org/verify/P33KHXREX4C3)
+    - **Introduction to API Testing using JMeter Tool** | _July 2023_ | [Verify](https://www.coursera.org/verify/EJ5XMEP8NS8L)
+    - **API Testing Using Rest Assured Test Automation Tool** | _July 2023_ | [Verify](https://coursera.org/verify/EH8ZF3L5TKLP)
+    - **Building API Test Automation Framework Using Rest Assured** | _July 2023_ | [Verify](https://coursera.org/verify/8HT942ZWUUDJ)
 </ul>
 
 <h2 id="related">⚒️ Related Courses:</h2>
