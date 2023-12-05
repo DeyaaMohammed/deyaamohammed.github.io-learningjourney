@@ -20,9 +20,9 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
   - Introduction To Software Testing Concepts & Techniques | _January 2023_ | [Verify](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1036&code=TUdBiFssRo&qrcode=1)
   - ISTQB Foundation Level | _August 2023_ | [Verify](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1682&code=MJN2Ky5dPD&qrcode=1)
   - Effective Test Case And Bug Report Writing Techniques | _August 2023_ | [Verify](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1685&code=EWybIUmymM&qrcode=1)
-- **Manual Testing Bootcamp** | QAcart - _September 2023_ | [Verify](https://drive.google.com/file/d/1rSdYywyxFkowSksaj6ij_bNeMLh3TwPZ/view?usp=drive_link)
-- **Testing Foundation Nanodegree** | Udacity, FWD - _September 2023_ | [Verify](confirm.udacity.com/KKK544LA)
-- **Practical Manual Software Testing - From Fundamentals** | Udemy, Mahmoud Eid -  _November 2023_ | [Verify](http://ude.my/UC-114ef6bc-0f66-4627-8745-47e40ef480fe)
+- **Manual Testing Bootcamp** || QAcart - _September 2023_ || [Verify](https://drive.google.com/file/d/1rSdYywyxFkowSksaj6ij_bNeMLh3TwPZ/view?usp=drive_link)
+- **Testing Foundation Nanodegree** :: Udacity, FWD - _September 2023_ :: [Verify](confirm.udacity.com/KKK544LA)
+- **Practical Manual Software Testing - From Fundamentals** :: Udemy, Mahmoud Eid -  _November 2023_ | [Verify](http://ude.my/UC-114ef6bc-0f66-4627-8745-47e40ef480fe)
 
 
 
