@@ -1,3 +1,7 @@
+<h2 id = "top" align = center>
+<a href="https://deyaamohammed.github.io/">Home</a> | <a href="/projects">Projects</a>  | <font color="#464646"><ins>Learning Journey</ins></font>
+</h2><hr width="100%" size="2">
+
 # My Learning Journey
 Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatiable curiosity, and a commitment to continuous learning as I consider myself a perpetual student, always seeking to expand my knowledge and skill set. This self-driven approach has led me to delve into various aspects of technology, from programming languages and frameworks to software testing and project management.
 <br>
@@ -11,7 +15,7 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
   - [Programming Languages](#pl)
 - [Other Courses](#other)
 
-<h2 id= "testing">📑 Software Testing Courses:</h2>
+<h2 id= "testing">📑 Software Testing Courses:</h2><hr>
 <h3 id="manual">📝 Core Manual Testing Courses</h3>
 
 - **Software Testing and Automation Specialization** - **_Coursera, University of Minnesota_** (_August 2023_) - [Verify](https://coursera.org/verify/specialization/DG6ZK2M4PUWY)
@@ -51,14 +55,14 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
     - **API Testing Using Rest Assured Test Automation Tool** - (_July 2023_) - [Verify](https://coursera.org/verify/EH8ZF3L5TKLP)
     - **Building API Test Automation Framework Using Rest Assured** - (_July 2023_) - [Verify](https://coursera.org/verify/8HT942ZWUUDJ)
 
-<h2 id="related">⚒️ Related Courses:</h2>
+<h2 id="related">⚒️ Related Courses:</h2><hr>
 
-<h4 id="sql">🗄️ Database / SQL</h4>
+<h3 id="sql">🗄️ Database / SQL</h3>
 
 - **Database Fundamentals** - ***MaharaTech, ITI*** (_February 2023_) - [Verify](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=162686&code=D1Y7zm3qpw&qrcode=1)
 - **SQL** - ***Sololrean*** (_February 2023_) - [Verify](https://www.sololearn.com/certificates/CT-BCMZUXIY)
 
-<h4 id="pm">📅 Project Management </h4>
+<h3 id="pm">📅 Project Management </h3>
 
 - **Google Project Management: Professional Certificate Specialization** - ***Coursera, Google*** (_August 2022_) - [Verify](https://coursera.org/verify/professional-cert/84Y9PVHYKAHN)
 - **Agile with Atlassian Jira** - ***Coursera, Atlassian*** (_September 2023_) - [Verify](https://coursera.org/verify/EJ5ZHNDPWLBZ)
@@ -68,7 +72,7 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 - **How to use roadmaps in Jira - Guided Project** - ***Coursera Project Network*** (_September 2023_) - [Verify](https://coursera.org/verify/GWTBEJ9PUQ6G)
 - **Automate tasks and processes with Jira - Guided Project** - ***Coursera Project Network*** (_September 2023_) - [Verify](https://coursera.org/verify/VHCQGVMNFV9U)
 
-<h4 id="pl">👨‍💻 Programming Languages</h4>
+<h3 id="pl">👨‍💻 Programming Languages</h3>
 
 - **Java Development SE** - ***MaharaTech, ITI*** (_May 2023_) - [Verify](https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2125&code=HI6MH7O5lP&qrcode=1)
 - **Java Programming** - ***Test Automation University*** (_September 2023_) - [Verify](https://testautomationu.applitools.com/certificate/?id=6dbb7d22)
@@ -76,7 +80,7 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 - **C++** - ***Sololrean*** (_February 2023_) - [Verify](https://www.sololearn.com/certificates/CT-PDOOWA8T)
 - **Programming in C++: A Hands-on Introduction Specialization** - ***Coursera, Codio*** (_January 2022_) - [Verify](https://coursera.org/verify/specialization/RB89YSM32HUA)
 
-<h2 id="other">📚 Other Courses:</h2>
+<h2 id="other">📚 Other Courses:</h2><hr>
 
 - **Data Structures and Algorithms Specialization** - ***Coursera, University of California San Diego*** (_April 2023_) - [Verify](https://coursera.org/verify/specialization/5AETJ3NY9H78)
 - **Introduction to Discrete Mathematics for Computer Science Specialization** - ***Coursera, University of California San Diego*** (_May 2022_) - [Verify](https://coursera.org/verify/specialization/4BBK9AW9WT8K)
@@ -88,3 +92,6 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 - **Data Collection and Processing with Python** - ***Coursera, University of Michigan*** (_March 2019_) - [Verify](https://coursera.org/verify/HWPKPZ6QNC3S)
 - **Machine Learning Specialization** - ***Coursera, University of Washington*** (_April 2019_) - [Verify](https://coursera.org/verify/specialization/B3N59ZPHN84F)
 - **Mathematics for Machine Learning: Linear Algebra** - ***Coursera, Imperial College London*** (_October 2019_) - [Verify](https://coursera.org/verify/F5DVGMDQCEP4)
+<br><br>
+
+<a href='#' align=right><img src="./Resources/top.png" alt="Scroll to Top" style="width:50px;" title="Scroll to Top" align=right></a><br>
