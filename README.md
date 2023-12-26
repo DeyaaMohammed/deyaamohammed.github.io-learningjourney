@@ -18,6 +18,7 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 <h2 id= "testing">📑 Software Testing Courses:</h2><hr>
 <h3 id="manual">📝 Core Manual Testing Courses</h3>
 
+- **Certified ISTQB® Agile Tester Foundation Level Exam** - **_Udemy, Maged Koshty_** (_December 2023_) - <a href=" https://ude.my/UC-94cbc752-cc54-4dcd-b12b-1d2e0406861b" target="_blank">Verify</a>
 - **Software Testing and Automation Specialization** - **_Coursera, University of Minnesota_** (_August 2023_) - <a href="https://coursera.org/verify/specialization/DG6ZK2M4PUWY" target="_blank">Verify</a>
 - **Software Testing Track - MaharaTech, ITI**
   - **Introduction To Software Testing Concepts & Techniques** - (_January 2023_) - <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1036&code=TUdBiFssRo&qrcode=1" target="_blank">Verify</a>
