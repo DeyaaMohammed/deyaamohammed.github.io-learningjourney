@@ -60,6 +60,9 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 
 <h3 id="sql">🗄️ Database / SQL</h3>
 
+- **SQL (Intermediate) Certificate** - ***HackerRank*** (_January 2024_) - <a href="https://www.hackerrank.com/certificates/4bdd9d83fb2c" target="_blank">Verify</a>
+- **SQL (Basic) Certificate** - ***HackerRank*** (_January 2024_) - <a href="https://www.hackerrank.com/certificates/b0a7e06446a7" target="_blank">Verify</a>
+- **Complete SQL Course** - ***QAcart*** (_January 2024_) - <a href="https://drive.google.com/file/d/1b-A8hqrKu3ysbjiiFK1y2FX_PgR3BBRN/view?usp=sharing" target="_blank">Verify</a>
 - **Database Fundamentals** - ***MaharaTech, ITI*** (_February 2023_) - <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=162686&code=D1Y7zm3qpw&qrcode=1" target="_blank">Verify</a>
 - **SQL** - ***Sololrean*** (_February 2023_) - <a href="https://www.sololearn.com/certificates/CT-BCMZUXIY" target="_blank">Verify</a>
 
@@ -75,6 +78,7 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 
 <h3 id="pl">👨‍💻 Programming Languages</h3>
 
+- **Java Certificate** - ***HackerRank*** (_January 2024_) - <a href="https://www.hackerrank.com/certificates/cbf4fd81bbb1" target="_blank">Verify</a>
 - **Java Development SE** - ***MaharaTech, ITI*** (_May 2023_) - <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=2125&code=HI6MH7O5lP&qrcode=1" target="_blank">Verify</a>
 - **Java Programming** - ***Test Automation University*** (_September 2023_) - <a href="https://testautomationu.applitools.com/certificate/?id=6dbb7d22" target="_blank">Verify</a>
 - **C** - ***Sololrean*** (_February 2023_) - <a href="https://www.sololearn.com/certificates/CT-6TYFWZIL" target="_blank">Verify</a>
