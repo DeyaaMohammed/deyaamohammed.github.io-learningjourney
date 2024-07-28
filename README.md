@@ -18,7 +18,9 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
 <h2 id= "testing">📑 Software Testing Courses:</h2><hr>
 <h3 id="manual">📝 Core Manual Testing Courses</h3>
 
+
 - **Certified ISTQB® Agile Tester Foundation Level Exam** - **_Udemy, Maged Koshty_** (_December 2023_) - <a href="https://ude.my/UC-94cbc752-cc54-4dcd-b12b-1d2e0406861b" target="_blank">Verify</a>
+- **Practical Manual Software Testing** - **_Udemy, Mohammed El Nenaey_** (_June 2024_) - <a href="http://ude.my/UC-fc41f266-13cb-4678-8eee-0facafe18938" target="_blank">Verify</a>
 - **Software Testing and Automation Specialization** - **_Coursera, University of Minnesota_** (_August 2023_) - <a href="https://coursera.org/verify/specialization/DG6ZK2M4PUWY" target="_blank">Verify</a>
 - **Software Testing Track - MaharaTech, ITI**
   - **Introduction To Software Testing Concepts & Techniques** - (_January 2023_) - <a href="https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1036&code=TUdBiFssRo&qrcode=1" target="_blank">Verify</a>
@@ -40,6 +42,8 @@ Hi there!👋 Welcome to my learning journey. My journey is fueled by an insatia
     - **API Test Automation with Postman** - (_October 2023_) - <a href="https://testautomationu.applitools.com/certificate/?id=4fedb9a0" target="_blank">Verify</a>
     - **Automating your API tests with REST Assured** - (_November 2023_) - <a href="https://testautomationu.applitools.com/certificate/?id=6d7e02cc" target="_blank">Verify</a>
 
+- **Web Element Locator Strategies** - **_Test Automation University_** (_July 2024_) - <a href="https://testautomationu.applitools.com/certificate/?id=fef985be" target="_blank">Verify</a>
+- **API Testing Using the Postman Tool** - **_Udemy, Mahmoud Eid_** (_May 2024_) - <a href="http://ude.my/UC-5a8c4852-7419-46e4-ba47-391a3affa535" target="_blank">Verify</a>
 - **Postman Course** - **_QAcart_** (_October 2023_) - <a href="https://drive.google.com/file/d/1f_2R5UCfqn9qvh_EFjcUITRhjWUh-vk_/view?usp=drive_link" target="_blank">Verify</a>
 - **Complete Rest assured course** - **_QAcart_** (_November 2023_) - <a href="https://drive.google.com/file/d/10458ng5CTO9ALzgFwtf9X5J9eTc5fdfQ/view?usp=drive_link" target="_blank">Verify</a>
 
